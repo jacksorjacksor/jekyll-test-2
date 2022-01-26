@@ -8,3 +8,15 @@ Trying to get the environment to work
 
 Minima docs
 https://github.com/jekyll/minima
+
+## Learning
+
+Create static site:
+```
+jekyll build
+```
+
+...and run server:
+```
+jekyll serve
+```
