@@ -20,3 +20,6 @@ jekyll build
 ```
 jekyll serve
 ```
+
+## Site structure:
+https://jekyllrb.com/docs/structure/
